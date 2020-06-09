@@ -30,6 +30,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 
 gem 'devise' # this is for authentication
 gem 'pundit' # this is for authorization
+gem 'simple_token_authentication' # this is for authorization as well for apis
 
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass'
